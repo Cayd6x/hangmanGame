@@ -11,7 +11,7 @@ To run this game, you need to have Python installed on your computer. The game i
 1. Clone or download this repository to your computer.
 2. Open the terminal or command prompt.
 3. Navigate to the folder where the game file is saved.
-4. Run the command `python Jogo_da_forca.py` to start the game.
+4. Run the command `python hangmanGame.py` to start the game.
 
 ##How to play
 
@@ -23,6 +23,6 @@ To run this game, you need to have Python installed on your computer. The game i
 
 ## Personalization
 
-You can add more words to the list of hidden words in the source code. To do this, edit the `escolher_palavra` function in the `jogo_da_forca.py` file.
+You can add more words to the list of hidden words in the source code. To do this, edit the `escolher_palavra` function in the `hangmanGame.py` file.
 
 Have fun playing!
